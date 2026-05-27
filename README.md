@@ -9,7 +9,7 @@ The project uses the **IBSR dataset** to segment anatomical structures from T1-w
 ## Overview
 
 * **Architecture:** Custom PyTorch implementation of M-Net using 2D convolutions (`Conv2d`).
-* **Dataset:** Handled via a custom `IBSRPatchDataset` loader for NIfTI formats. ()
+* **Dataset:** Handled via a custom `IBSRPatchDataset` loader for NIfTI formats. 
 * **Pipeline:** Includes complete training, validation, and visual evaluation routines.
 
 
